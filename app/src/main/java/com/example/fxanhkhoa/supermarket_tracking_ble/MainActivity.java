@@ -13,7 +13,6 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-    static final String ACTION_SCAN = "com.google.zxing.client.android.SCAN";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
