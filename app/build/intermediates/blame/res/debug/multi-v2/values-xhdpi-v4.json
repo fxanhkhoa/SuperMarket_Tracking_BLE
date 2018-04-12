@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tuychon/Downloads/mapwize-app-android-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

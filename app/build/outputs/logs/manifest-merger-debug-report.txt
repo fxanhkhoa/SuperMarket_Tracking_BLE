@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.mikepenz:materialdrawer:5.6.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialdrawer-5.6.0.aar/3207f122fc542198b7e7e0a1dfa7fa42/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:2:1-14:12
+MERGED from [io.mapwize.indoormaps:MapwizeForMapbox:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/MapwizeForMapbox-1.0.3.aar/3db921cf9c908f62f9ca739b8cf20540/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:2:1-31:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/416203f818afbbd2ceab5c9a0986c389/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7e2b6fb77bcbc9e65a176f19ca0b2d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fd03d00af3a0b561665fb23427504d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2044fc5ef6e4dce08b4d4b86c88a575/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/1c2982745047cb02232793fe15cacc9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/84ac5e33253e5e6b033518cf077336f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.IndoorLocation:indoor-location-android:1.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/indoor-location-android-1.0.4.aar/c7be0bc274eb79c5ce4136f1adb68b22/AndroidManifest.xml:2:1-12:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e4ceddb51b191ab3d485030cf173b031/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/39fed261db7c83401f1b663770093f21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/86e67e2256a505002161aeee68013981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/90786b4eaf97c8e27983b61b5eb6d6c3/AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1904793eda4873b037dc5b7146959a15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5373a5ce3f91f0190959b73a168e4013/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fcad1d1d3ab883f24683339b54560bda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4c0294c451a160f812d044f62d79b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a4125504137eda3a3564ef2212a1e21f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fac879d931b0f53ae2dd3d642eb26439/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialize:1.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialize-1.0.0.aar/fbb7ac114a24c88bbab438b356d881ec/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:2.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/iconics-core-2.8.0.aar/c6cf52644304e5fe9229458d23485868/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:1.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/fastadapter-1.8.0.aar/6dd197a4045f9a1d029ae811175f426f/AndroidManifest.xml:2:1-12:12
+MERGED from [io.realm:realm-android-library:3.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.0.0.aar/72710c06e911d122697de101a72d0d2f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/PersistentCookieJar-v1.0.1.aar/6f4827647cb747c4b06fc0322dc04557/AndroidManifest.xml:2:1-14:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c8a827a8d7c987d9eddde551e21dea2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/8d0c4cbcfe90d23c006f8b0bea032295/AndroidManifest.xml:2:1-10:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ccebe99a70064e2619978ad615d86a8f/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:12:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:12:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:21:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:22:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:11:5-81
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:12:5-79
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:10:22-62
+application
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:12:5-46:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:21:5-32:19
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:21:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2044fc5ef6e4dce08b4d4b86c88a575/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2044fc5ef6e4dce08b4d4b86c88a575/AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e4ceddb51b191ab3d485030cf173b031/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e4ceddb51b191ab3d485030cf173b031/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/AndroidManifest.xml:11:5-20
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/PersistentCookieJar-v1.0.1.aar/6f4827647cb747c4b06fc0322dc04557/AndroidManifest.xml:12:5-20
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/PersistentCookieJar-v1.0.1.aar/6f4827647cb747c4b06fc0322dc04557/AndroidManifest.xml:12:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/8d0c4cbcfe90d23c006f8b0bea032295/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/8d0c4cbcfe90d23c006f8b0bea032295/AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:13:9-32
+	android:roundIcon
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:19:9-40
+	tools:replace
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:20:9-38
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:14:9-43
+activity#io.mapwize.app.SplashActivity
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:theme
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:23:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:27:27-74
+activity#io.mapwize.app.MapActivity
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:screenOrientation
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:34:13-59
+	android:theme
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:35:13-79
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:32:13-40
+activity#io.mapwize.app.ScannerActivity
+ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:39:9-44:20
+	android:screenOrientation
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:configChanges
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:42:13-59
+	android:theme
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:43:13-79
+	android:name
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+MERGED from [com.mikepenz:materialdrawer:5.6.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialdrawer-5.6.0.aar/3207f122fc542198b7e7e0a1dfa7fa42/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:5.6.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialdrawer-5.6.0.aar/3207f122fc542198b7e7e0a1dfa7fa42/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/gps-indoor-location-provider-android-1.0.3.aar/8aa4eb867a31554aa015819b6efa555d/AndroidManifest.xml:7:5-9:41
+MERGED from [io.mapwize.indoormaps:MapwizeForMapbox:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/MapwizeForMapbox-1.0.3.aar/3db921cf9c908f62f9ca739b8cf20540/AndroidManifest.xml:8:5-10:41
+MERGED from [io.mapwize.indoormaps:MapwizeForMapbox:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/MapwizeForMapbox-1.0.3.aar/3db921cf9c908f62f9ca739b8cf20540/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-services:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-services-2.2.9.aar/f429f2fffb43e900d16a773f89a7752c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:6:5-9:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:6:5-9:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/416203f818afbbd2ceab5c9a0986c389/AndroidManifest.xml:8:5-11:51
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:2.2.9] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-telemetry-2.2.9.aar/416203f818afbbd2ceab5c9a0986c389/AndroidManifest.xml:8:5-11:51
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7e2b6fb77bcbc9e65a176f19ca0b2d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/7e2b6fb77bcbc9e65a176f19ca0b2d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fd03d00af3a0b561665fb23427504d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0fd03d00af3a0b561665fb23427504d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2044fc5ef6e4dce08b4d4b86c88a575/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a2044fc5ef6e4dce08b4d4b86c88a575/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/1c2982745047cb02232793fe15cacc9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/1c2982745047cb02232793fe15cacc9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/84ac5e33253e5e6b033518cf077336f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/84ac5e33253e5e6b033518cf077336f8/AndroidManifest.xml:20:5-44
+MERGED from [com.github.IndoorLocation:indoor-location-android:1.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/indoor-location-android-1.0.4.aar/c7be0bc274eb79c5ce4136f1adb68b22/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.IndoorLocation:indoor-location-android:1.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/indoor-location-android-1.0.4.aar/c7be0bc274eb79c5ce4136f1adb68b22/AndroidManifest.xml:8:5-10:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e4ceddb51b191ab3d485030cf173b031/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e4ceddb51b191ab3d485030cf173b031/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/39fed261db7c83401f1b663770093f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/39fed261db7c83401f1b663770093f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/86e67e2256a505002161aeee68013981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/86e67e2256a505002161aeee68013981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/90786b4eaf97c8e27983b61b5eb6d6c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/90786b4eaf97c8e27983b61b5eb6d6c3/AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /home/tuychon/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/aa1df5ecd47a8b2ba91598bcf6bec2da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1904793eda4873b037dc5b7146959a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1904793eda4873b037dc5b7146959a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5373a5ce3f91f0190959b73a168e4013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5373a5ce3f91f0190959b73a168e4013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fcad1d1d3ab883f24683339b54560bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fcad1d1d3ab883f24683339b54560bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4c0294c451a160f812d044f62d79b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4c0294c451a160f812d044f62d79b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a4125504137eda3a3564ef2212a1e21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a4125504137eda3a3564ef2212a1e21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fac879d931b0f53ae2dd3d642eb26439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fac879d931b0f53ae2dd3d642eb26439/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialize:1.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialize-1.0.0.aar/fbb7ac114a24c88bbab438b356d881ec/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/materialize-1.0.0.aar/fbb7ac114a24c88bbab438b356d881ec/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/iconics-core-2.8.0.aar/c6cf52644304e5fe9229458d23485868/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/iconics-core-2.8.0.aar/c6cf52644304e5fe9229458d23485868/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/fastadapter-1.8.0.aar/6dd197a4045f9a1d029ae811175f426f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:1.8.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/fastadapter-1.8.0.aar/6dd197a4045f9a1d029ae811175f426f/AndroidManifest.xml:8:5-10:41
+MERGED from [io.realm:realm-android-library:3.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.0.0.aar/72710c06e911d122697de101a72d0d2f/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:realm-android-library:3.0.0] /home/tuychon/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.0.0.aar/72710c06e911d122697de101a72d0d2f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/PersistentCookieJar-v1.0.1.aar/6f4827647cb747c4b06fc0322dc04557/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/PersistentCookieJar-v1.0.1.aar/6f4827647cb747c4b06fc0322dc04557/AndroidManifest.xml:8:5-10:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c8a827a8d7c987d9eddde551e21dea2/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/tuychon/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c8a827a8d7c987d9eddde551e21dea2/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/8d0c4cbcfe90d23c006f8b0bea032295/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/8d0c4cbcfe90d23c006f8b0bea032295/AndroidManifest.xml:6:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ccebe99a70064e2619978ad615d86a8f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/tuychon/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ccebe99a70064e2619978ad615d86a8f/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:9:9-48
+	android:targetSdkVersion
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:13:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:14:5-16:36
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:19:5-58
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:19:5-58
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:16:9-33
+		MERGED from /home/tuychon/Downloads/mapwize-app-android-master/app/src/main/AndroidManifest.xml:14:5-16:36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:15:9-45
+uses-feature#android.hardware.location.gps
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:17:5-19:36
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:13:5-15:36
+MERGED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:18:9-53
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:23:22-73
+service#com.mapbox.services.android.telemetry.service.TelemetryService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:28:9-98
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:5.3.1] /home/tuychon/.gradle/caches/transforms-1/files-1.1/mapbox-android-sdk-5.3.1.aar/ac3cb444fd08ddd8b777997173ed1ddf/AndroidManifest.xml:28:18-95
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:11:9-33
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:10:9-61
+uses-feature#android.hardware.location
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:12:19-59
+uses-feature#android.hardware.telephony
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:17:9-50
+service#com.mapzen.android.lost.internal.FusedLocationProviderService
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:22:9-24:39
+	android:process
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:23:13-89
+service#com.mapzen.android.lost.internal.GeofencingIntentService
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:25:9-29:19
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:25:18-89
+intent-filter#action:name:com.mapzen.lost.action.ACTION_GEOFENCING_SERVICE
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:26:13-28:29
+action#com.mapzen.lost.action.ACTION_GEOFENCING_SERVICE
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:27:17-91
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:27:25-88
+service#com.mapzen.android.lost.internal.DwellIntentService
+ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:30:9-31:19
+	android:name
+		ADDED from [com.mapzen.android:lost:3.0.4] /home/tuychon/.gradle/caches/transforms-1/files-1.1/lost-3.0.4.aar/46f14d65b050a07095ff6cf63448d242/AndroidManifest.xml:30:18-84
