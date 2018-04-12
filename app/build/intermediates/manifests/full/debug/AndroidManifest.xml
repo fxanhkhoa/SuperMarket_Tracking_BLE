@@ -42,6 +42,7 @@
         android:label="Mapwize"
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="io.mapwize.app.SplashActivity"

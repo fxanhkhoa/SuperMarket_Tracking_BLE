@@ -1,6 +1,7 @@
 buildscript {
     repositories {
         maven { url 'https://maven.fabric.io/public' }
+
     }
 }
 apply plugin: 'com.android.application'
@@ -46,6 +47,8 @@ dependencies {
     implementation 'com.github.IndoorLocation:gps-indoor-location-provider-android:1.0.3'
     implementation 'com.github.IndoorLocation:indoor-location-android:1.0.4'
     implementation 'me.dm7.barcodescanner:zxing:1.9.8'
-    implementation 'io.mapwize.indoormaps:MapwizeForMapbox:1.0.3'
-
+    //implementation 'io.mapwize.indoormaps:MapwizeForMapbox:1.0.3'
+    implementation ("io.mapwize.indoormaps:MapwizeForMapbox:1.0.3") {
+        transitive = true
+    }
 }

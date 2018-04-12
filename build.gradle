@@ -13,6 +13,8 @@ buildscript {
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3'
         classpath 'com.google.gms:google-services:3.0.0'
         classpath 'org.jfrog.buildinfo:build-info-extractor-gradle:4.5.4'
+        //compile 'com.github.Mapwize:mapwize-android-sdk:2.5.1'
+
     }
 }
 
@@ -31,6 +33,7 @@ allprojects {
         maven { url 'https://maven.mapwize.io'}
 
     }
+
 }
 
 task clean(type: Delete) {
