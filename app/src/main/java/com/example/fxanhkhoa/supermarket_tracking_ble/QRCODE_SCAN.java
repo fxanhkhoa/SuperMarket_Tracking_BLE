@@ -37,7 +37,7 @@ public class QRCODE_SCAN extends AppCompatActivity {
         txtResult = (TextView) findViewById(R.id.txtResult);
 
         barcodeDetector = new BarcodeDetector.Builder(this)
-                .setBarcodeFormats(Barcode.QR_CODE)
+                .setBarcodeFormats(Barcode.ALL_FORMATS)
                 .build();
 
         cameraSource = new CameraSource
@@ -87,8 +87,8 @@ public class QRCODE_SCAN extends AppCompatActivity {
                         @Override
                         public void run() {
                             //Create vibrate
-                            Vibrator vibrator = (Vibrator) getApplicationContext().getSystemService(Context.VIBRATOR_SERVICE);
-                            vibrator.vibrate(1000);
+                            //Vibrator vibrator = (Vibrator) getApplicationContext().getSystemService(Context.VIBRATOR_SERVICE);
+                            //vibrator.vibrate(1000);
                             txtResult.setText(qrcodes.valueAt(0).displayValue);
                         }
                     });
